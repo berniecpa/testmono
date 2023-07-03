@@ -73,7 +73,7 @@
     "koa-bodyparser": "^4.4.0",
     "koa-mount": "^4.0.0",
     "objection": "^3.0.1",
-    "pg": "8.10.0",
+    "pg": "8.11.1",
     "reflect-metadata": "^0.1.13",
     "serverless-http": "^3.2.0",
     "stripe": "^12.9.0",
